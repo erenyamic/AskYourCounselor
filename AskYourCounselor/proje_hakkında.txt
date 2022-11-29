@@ -1,0 +1,12 @@
+sayfa linkleri
+
+öğrenci -> https://cryptoymc.com/danismaninasor/
+
+danışman -> https://cryptoymc.com/danismaninasor/
+örnek danışman şifresi -> 12345
+
+(Danışman şifresi ile danışman olarak giriş yapmalısınız)
+
+admin-> https://cryptoymc.com/danismaninasor/admin/
+admin kullanıcı adı -> omudanismaninasor
+admin şifre -> danismanomu
